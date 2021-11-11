@@ -1,0 +1,22 @@
+h1 {
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+root {
+    display: block;
+}
+
+body {
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    max-width: 100%;
+    height: auto;
+}
